@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "wimachtendienk.com",
+    "username": "mckernanin",
+    "password": "",
+    "port": 22,
+    "remotePath": "/srv/users/mckernanin/apps/wimachtendienk/public/wp-content/themes/wimachtendienk-theme",
+    "uploadOnSave": false
+}
